@@ -1,0 +1,182 @@
+[penuelap@v006 ITensor_wGPU]$ julia DMRG\ -\ Multiple\ GPUs.jl 
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Stopping DMRG after sweep 10
+ 49.172050 seconds (83.09 M allocations: 5.535 GiB, 7.66% gc time, 94.68% compilation time: <1% of which was recompilation)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 1 energy=-144.38238420345803  maxlinkdim=16 maxerr=4.07E-16 time=1.046
+Tesla V100-SXM2-32GB #1 memory usage: 2.505 % (0.8015 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 2 energy=-148.76929666637568  maxlinkdim=184 maxerr=9.99E-11 time=2.514
+Tesla V100-SXM2-32GB #1 memory usage: 34.84 % (11.15 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 3 energy=-149.09377002970749  maxlinkdim=286 maxerr=1.00E-10 time=4.554
+Tesla V100-SXM2-32GB #1 memory usage: 33.97 % (10.87 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 4 energy=-149.23708164024293  maxlinkdim=257 maxerr=1.00E-10 time=4.886
+Tesla V100-SXM2-32GB #1 memory usage: 25.46 % (8.147 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 5 energy=-149.32289901540227  maxlinkdim=264 maxerr=1.00E-10 time=5.227
+Tesla V100-SXM2-32GB #1 memory usage: 45.47 % (14.55 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 6 energy=-149.39456560736022  maxlinkdim=447 maxerr=1.00E-10 time=6.242
+Tesla V100-SXM2-32GB #1 memory usage: 37.47 % (11.99 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 7 energy=-149.45232196315752  maxlinkdim=548 maxerr=1.00E-10 time=9.590
+Tesla V100-SXM2-32GB #1 memory usage: 50.56 % (16.18 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 8 energy=-149.4936885043892  maxlinkdim=584 maxerr=1.00E-10 time=14.266
+Tesla V100-SXM2-32GB #1 memory usage: 42.84 % (13.71 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 9 energy=-149.52021682142185  maxlinkdim=871 maxerr=1.00E-10 time=22.961
+Tesla V100-SXM2-32GB #1 memory usage: 50.56 % (16.18 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 10 energy=-149.53576570323114  maxlinkdim=1131 maxerr=1.00E-10 time=31.308
+Tesla V100-SXM2-32GB #1 memory usage: 28.88 % (9.241 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 11 energy=-149.54820826794756  maxlinkdim=1402 maxerr=1.00E-10 time=41.478
+Tesla V100-SXM2-32GB #1 memory usage: 52.72 % (16.87 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 12 energy=-149.55601452888058  maxlinkdim=1409 maxerr=3.88E-10 time=52.189
+Tesla V100-SXM2-32GB #1 memory usage: 55.94 % (17.9 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 13 energy=-149.56365395505586  maxlinkdim=1284 maxerr=2.67E-10 time=73.748
+Tesla V100-SXM2-32GB #1 memory usage: 44.91 % (14.37 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 14 energy=-149.56852469824108  maxlinkdim=1471 maxerr=2.43E-09 time=106.302
+Tesla V100-SXM2-32GB #1 memory usage: 48.5 % (15.52 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 15 energy=-149.5716108383829  maxlinkdim=1484 maxerr=4.32E-09 time=134.550
+Tesla V100-SXM2-32GB #1 memory usage: 54.47 % (17.43 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 16 energy=-149.57383735438694  maxlinkdim=1500 maxerr=1.86E-09 time=173.726
+Tesla V100-SXM2-32GB #1 memory usage: 65.88 % (21.08 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 17 energy=-149.5753458732739  maxlinkdim=1500 maxerr=4.42E-09 time=292.566
+Tesla V100-SXM2-32GB #1 memory usage: 70.0 % (22.4 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 18 energy=-149.57571031138718  maxlinkdim=1500 maxerr=9.47E-09 time=413.025
+Tesla V100-SXM2-32GB #1 memory usage: 71.75 % (22.96 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+ERROR: LoadError: Out of GPU memory trying to allocate 1.537 GiB
+Effective GPU memory usage: 80.38% (25.512 GiB/31.739 GiB)
+Memory pool usage: 20.005 GiB (25.125 GiB reserved)
+
+Stacktrace:
+  [1] _pool_alloc
+    @ ~/.julia/packages/CUDA/Tl08O/src/memory.jl:660 [inlined]
+  [2] macro expansion
+    @ ~/.julia/packages/CUDA/Tl08O/src/memory.jl:617 [inlined]
+.......................................................................................
+
+[penuelap@v006 ITensor_wGPU]$ julia DMRG\ -\ Multiple\ GPUs.jl  --heap-size-hint=25G
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 0.8259 % (0.2643 GB/ 32.0 GB)
+Stopping DMRG after sweep 9
+ 48.182648 seconds (81.89 M allocations: 5.455 GiB, 6.94% gc time, 94.69% compilation time: <1% of which was recompilation)
+Tesla V100-SXM2-32GB #1 memory usage: 2.114 % (0.6765 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 1 energy=-145.14355661214682  maxlinkdim=16 maxerr=3.27E-16 time=1.025
+Tesla V100-SXM2-32GB #1 memory usage: 2.407 % (0.7702 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 2 energy=-148.7108085207749  maxlinkdim=187 maxerr=9.99E-11 time=2.546
+Tesla V100-SXM2-32GB #1 memory usage: 38.44 % (12.3 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 3 energy=-148.97857908593633  maxlinkdim=277 maxerr=1.00E-10 time=4.729
+Tesla V100-SXM2-32GB #1 memory usage: 36.41 % (11.65 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 4 energy=-149.1250146695477  maxlinkdim=260 maxerr=9.99E-11 time=5.076
+Tesla V100-SXM2-32GB #1 memory usage: 30.05 % (9.616 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 5 energy=-149.23113360370692  maxlinkdim=278 maxerr=1.00E-10 time=5.512
+Tesla V100-SXM2-32GB #1 memory usage: 28.78 % (9.21 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 6 energy=-149.31358097131124  maxlinkdim=284 maxerr=1.00E-10 time=6.157
+Tesla V100-SXM2-32GB #1 memory usage: 46.25 % (14.8 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 7 energy=-149.38208101474984  maxlinkdim=314 maxerr=9.99E-11 time=7.072
+Tesla V100-SXM2-32GB #1 memory usage: 45.28 % (14.49 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 8 energy=-149.44401963528094  maxlinkdim=764 maxerr=1.00E-10 time=9.119
+Tesla V100-SXM2-32GB #1 memory usage: 47.62 % (15.24 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 9 energy=-149.49007704123545  maxlinkdim=967 maxerr=1.00E-10 time=13.329
+Tesla V100-SXM2-32GB #1 memory usage: 42.84 % (13.71 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 10 energy=-149.52017232066007  maxlinkdim=828 maxerr=1.00E-10 time=18.659
+Tesla V100-SXM2-32GB #1 memory usage: 53.0 % (16.96 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 11 energy=-149.54495105243493  maxlinkdim=906 maxerr=1.00E-10 time=27.425
+Tesla V100-SXM2-32GB #1 memory usage: 40.0 % (12.8 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 12 energy=-149.55489395462575  maxlinkdim=1158 maxerr=1.00E-10 time=37.211
+Tesla V100-SXM2-32GB #1 memory usage: 57.69 % (18.46 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 13 energy=-149.56375825456828  maxlinkdim=1119 maxerr=1.00E-10 time=60.700
+Tesla V100-SXM2-32GB #1 memory usage: 35.03 % (11.21 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 14 energy=-149.56870406203387  maxlinkdim=1500 maxerr=7.15E-10 time=89.510
+Tesla V100-SXM2-32GB #1 memory usage: 49.88 % (15.96 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 15 energy=-149.57091983748865  maxlinkdim=1500 maxerr=8.14E-10 time=111.698
+Tesla V100-SXM2-32GB #1 memory usage: 43.03 % (13.77 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 16 energy=-149.57233903425785  maxlinkdim=1345 maxerr=1.35E-10 time=118.304
+Tesla V100-SXM2-32GB #1 memory usage: 92.94 % (29.74 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 17 energy=-149.57370023322807  maxlinkdim=1500 maxerr=1.18E-08 time=155.879
+Tesla V100-SXM2-32GB #1 memory usage: 56.31 % (18.02 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 18 energy=-149.57494264920516  maxlinkdim=1500 maxerr=1.53E-08 time=254.957
+Tesla V100-SXM2-32GB #1 memory usage: 71.84 % (22.99 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+After sweep 19 energy=-149.57542070412114  maxlinkdim=1500 maxerr=2.74E-08 time=397.667
+Tesla V100-SXM2-32GB #1 memory usage: 95.38 % (30.52 GB/ 32.0 GB)
+Tesla V100-SXM2-32GB #2 memory usage: 1.76 % (0.5632 GB/ 32.0 GB)
+ERROR: LoadError: Out of GPU memory trying to allocate 1.577 GiB
+Effective GPU memory usage: 81.26% (25.793 GiB/31.739 GiB)
+Memory pool usage: 20.335 GiB (25.406 GiB reserved)
+
+Stacktrace:
+  [1] _pool_alloc
+    @ ~/.julia/packages/CUDA/Tl08O/src/memory.jl:660 [inlined]
+  [2] macro expansion
+    @ ~/.julia/packages/CUDA/Tl08O/src/memory.jl:617 [inlined]
+.......................................................................................
+
+  
